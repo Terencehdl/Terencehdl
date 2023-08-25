@@ -17,8 +17,11 @@ Once weaving elegant frontend symphonies, I've transitioned into orchestrating t
 ## My DevOps Arsenal ⚔️
 
 🛢️ Containers Craftsman 📦
+
 🚢 Navigating the Kubernetes Cosmos 🛸
+
 🔧 Harnessing Automation with Ansible 🤖
+
 🔍 Unveiling Insights through Prometheus & Grafana 🔍
 
 ## Pioneering Tomorrow
