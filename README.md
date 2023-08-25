@@ -2,8 +2,6 @@
 <!-- Markdown -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terencehdl&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terencehdl&layout=donut-vertical&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/Terencehdl/count.svg)
