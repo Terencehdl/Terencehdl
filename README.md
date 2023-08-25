@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Cover](https://github.com/Terencehdl/Terencehdl/blob/main/img/56540121.jpeg)
+
 
 <!--
 **Terencehdl/Terencehdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
