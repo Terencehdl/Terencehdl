@@ -5,7 +5,9 @@ Welcome to a journey through the ever-evolving tech landscape, guided by me – 
 ## Unveiling My Odyssey
 
 🛠️ DevOps Enthusiast 🤖
+
 🌐 Roaming the Digital Frontier 🌐
+
 🌍 Open to Chart New Territories 🗺️
 
 ## About Me 🧐
