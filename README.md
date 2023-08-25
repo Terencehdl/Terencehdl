@@ -1,9 +1,5 @@
 ### Hi there 👋
 <!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terencehdl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Terencehdl&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
