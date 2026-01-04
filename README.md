@@ -1,51 +1,59 @@
-# Greetings, Tech Explorers! 🚀
 
-Welcome to a journey through the ever-evolving tech landscape, guided by me – Térence – your companion in the quest for innovative solutions and seamless automation.
+# Térence Hildéral
 
-## Unveiling My Odyssey
+**DevOps Engineer** | Infrastructure-as-Code | CI/CD Automation  
+10+ years Industrial Engineering → DevOps Modern Stack
 
-🛠️ DevOps Enthusiast 🤖
+## 🎯 Expertise
 
-🌐 Roaming the Digital Frontier 🌐
+**DevOps & Cloud**
+- Infrastructure-as-Code: Terraform, AWS
+- Container Orchestration: Kubernetes, Docker
+- CI/CD: GitHub Actions, GitLab CI
+- Monitoring: Prometheus, Grafana
 
-🌍 Open to Chart New Territories 🗺️
+**Background**
+- Shift Supervisor @ KOGEBAN - 50MW Biomass Plant
+- DevOps Engineer 
+- 10+ years industrial maintenance & automation
 
-## About Me 🧐
+## 💼 Available for Freelance
 
-Once weaving elegant frontend symphonies, I've transitioned into orchestrating the harmonious integration of code and infrastructure. Just as the art of Jiu-Jitsu teaches adaptability and strategy, I now channel that mindset into shaping efficient deployment pipelines.
-You can check my Github development-oriented here : [Github](https://github.com/TerenceHilderal/TerenceHilderal)
+✅ Remote DevOps missions  
+✅ Infrastructure modernization  
+✅ CI/CD pipeline implementation  
+✅ Industrial automation
 
-## My DevOps Arsenal ⚔️
+**Contact**  
+📧 terencedevopsazure@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/terencehdl)  
+🌐 [Viziboost.fr](https://viziboost.fr)
 
-🛢️ Containers Craftsman 📦
+---
 
-🚢 Navigating the Kubernetes Cosmos 🛸
+## 📦 Featured Projects
 
-🔧 Harnessing Automation with Ansible 🤖
+### [🏗️ AWS Production Infrastructure](https://github.com/Terencehdl/terraform-aws-production)
+Terraform modules for production-ready AWS deployment
+- Multi-environment (dev/staging/prod)
+- Remote state management
+- Security best practices
 
-🔍 Unveiling Insights through Prometheus & Grafana 🔍
+### [📱 Flutter CI/CD Pipeline](https://github.com/Terencehdl/flutter-cicd)
+Complete automation pipeline: code → app stores
+- Android & iOS builds
+- Automated testing & signing
+- Play Store / TestFlight deployment
 
-## Pioneering Tomorrow
+### [⚡ Industrial Monitoring Stack](https://github.com/Terencehdl/industrial-monitoring)
+Prometheus + Grafana for industrial systems
+- Real-time metrics collection
+- Custom dashboards for energy production
+- Alert management
 
-My DevOps journey is a quest to transform complex challenges into elegantly simple solutions. From optimizing CI/CD workflows to crafting resilient architectures, I'm here to build bridges between development and operations.
+---
 
-## Let's Connect! 🌐
-
-Curious to learn more about my journey? Connect with me on [LinkedIn](https://www.linkedin.com/in/terencehdl) and let's navigate the tech frontier together!
-
-Cheers to innovation,
-Sportively !! 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terencehdl&layout=donut-vertical&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terencehdl&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
-
-![Visitor Count](https://profile-counter.glitch.me/Terencehdl/count.svg)
-
-<!--
-**Terencehdl/Terencehdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**TJM: 350-400€** | **Availability: 2-3 days/week**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -57,3 +65,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
