@@ -27,7 +27,6 @@
 **Contact**  
 📧 terencedevopsazure@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/terencehdl)  
-🌐 [Viziboost.fr](https://viziboost.fr)
 
 ---
 
