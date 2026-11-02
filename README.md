@@ -1,7 +1,7 @@
 
 # Térence Hildéral
 
-**DevOps Engineer** | Infrastructure-as-Code | CI/CD Automation  
+**Cloud Infrastructure & Security ** | Infrastructure-as-Code | CI/CD Automation  
 10+ years Industrial Engineering → DevOps Modern Stack
 
 ## 🎯 Expertise
@@ -14,7 +14,7 @@
 
 **Background**
 - Shift Supervisor @ KOGEBAN - 50MW Biomass Plant
-- DevOps Engineer 
+- DevOps Engineer/Cloud Engineer 
 - 10+ years industrial maintenance & automation
 
 ## 💼 Available for Freelance
